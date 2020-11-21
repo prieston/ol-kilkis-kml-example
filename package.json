@@ -1,0 +1,19 @@
+{
+  "name": "ol-webpack",
+  "version": "1.0.0",
+  "description": "Example using OpenLayers with Webpack",
+  "scripts": {
+    "start": "webpack-cli serve --mode development",
+    "build": "webpack --config webpack.config.js --mode production"
+  },
+  "devDependencies": {
+    "webpack": "^4.12.1",
+    "webpack-command": "^0.3.0",
+    "webpack-dev-server": "^3.11.0",
+    "webpack-cli": "^4.2.0",
+    "serve": "^11.3.2",
+  },
+  "dependencies": {
+    "ol": "^6.4.3",
+  }
+}
