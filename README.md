@@ -11,4 +11,4 @@ Go to https://nodejs.org/en/ and download the LTS version. We need this to insta
 
 3. Run `npm install` (this will install all the required dependencies for you)
 
-4. Run `npm start` (this will start a web server and you can see the result in localhost:8080)  
+4. Run `npm start` (this will start a web server and you can see the result in localhost:8080)
